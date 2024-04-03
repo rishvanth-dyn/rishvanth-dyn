@@ -1,6 +1,6 @@
 # 💫 About Me:
 👨‍💻 Computer Science Student | Cloud DevOps Enthusiast 🦾<br>Passionate Computer Science student with a keen interest in Cloud DevOps,<br>
-seeking opportunities to leverage cutting-edge technologies and automation tools<br> to streamline development and deployment processes.
+seeking opportunities to leverage cutting-edge technologies and automation tools to streamline development and deployment processes.
 
 
 
